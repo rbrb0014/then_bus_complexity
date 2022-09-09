@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../KIM_GYUJIN_base_files"
+		},
+		{
+			"path": "../../Apex_Stats"
+		},
+		{
+			"path": "../../BOJ-solving"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Programing Language"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
